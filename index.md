@@ -16,7 +16,7 @@ title: Home
 - [The Global Impacts of Extreme Sea-level Rise. A comprehensive economic assessment](https://link.springer.com/article/10.1007/s10640-014-9866-9), with Jon Pycroft and Juan-Carlos Ciscar, *Environmental and Resource Economics*, 2016, 64, 225-253.
 - [Investments in a Combined Energy Network Model: Substitution between Natural Gas and Electricity?](https://www.jstor.org/stable/44075495?seq=1#metadata_info_tab_contents), with Hannes Weigt, *The Energy Journal*, 2016, 37, 63-86.
 - [Economic impacts of EU clean air policies assessed in a CGE framework](https://www.sciencedirect.com/science/article/pii/S1462901115300307), with Fred Neuwahl, Bert Saveyn, Fabian Wagner, Zoe Vrontis, *Environmental Science and Policy*, 2016, 55, 54-64.
-- [Integrating Intermittent Renewable Wind Generation - A Stochastic Multi-Market Electricity Model for the European Electricity Market] (https://link.springer.com/article/10.1007/s11067-014-9272-4), with Friedrich Kunz, 
+- [Integrating Intermittent Renewable Wind Generation - A Stochastic Multi-Market Electricity Model for the European Electricity Market](https://link.springer.com/article/10.1007/s11067-014-9272-4), with Friedrich Kunz, 
 *Networks and Spatial Economics*, 2015, 15, 117-147.
 - [Combining Energy Networks](https://link.springer.com/article/10.1007/s11067-011-9160-0), with Hannes Weigt, *Networks and Spatial Economics*, 2012, 12, 377-401.
 - [Regulating CO2 emissions of transportation in Europe: A CGE-analysis using market-based instruments](Regulating CO2 emissions of transportation in Europe: A CGE-analysis using market-based instruments), Transportation Research Part D, 2010, 15, 235-239.
