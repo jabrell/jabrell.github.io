@@ -4,7 +4,9 @@ highlighter:      rouge
 # Setup
 title:            Jan Abrell
 tagline:          'Research Page'
-description:      ''
+description:      'Department of Environmental and Resource Economics
+ZEW Leibniz Centre for European Economic Research
+'
 url:              https://jabrell.github.io
 baseurl:          /
 
