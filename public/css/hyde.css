@@ -127,17 +127,17 @@ a.sidebar-nav-item:focus {
 }
 
 /* ADDED NEXT 2: min-width for larger screens */
-@media (min-width: 70em) {
+@media (min-width: 90em) {
   .content {
-    max-width: 60rem; 
+    max-width: 80rem; 
     margin-left: 20rem;
     margin-right: 2rem;
   }
 }
 
-@media (min-width: 90em) {
+@media (min-width: 70em) {
   .content {
-    max-width: 80rem; 
+    max-width: 60rem; 
     margin-left: 20rem;
     margin-right: 2rem;
   }
