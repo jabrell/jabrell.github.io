@@ -126,23 +126,6 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
-/* ADDED NEXT 2: min-width for larger screens */
-@media (min-width: 90em) {
-  .content {
-    max-width: 80rem; 
-    margin-left: 20rem;
-    margin-right: 2rem;
-  }
-}
-
-@media (min-width: 70em) {
-  .content {
-    max-width: 60rem; 
-    margin-left: 20rem;
-    margin-right: 2rem;
-  }
-}
-
 @media (min-width: 48em) {
   .content {
     max-width: 38rem; 
@@ -153,6 +136,8 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .content {
+    /*Added NEXT LINE */
+    max-width: 60rem;
     margin-left: 22rem; /*22rem*/
     margin-right: 4rem; 
   }
