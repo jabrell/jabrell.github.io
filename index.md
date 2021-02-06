@@ -26,7 +26,7 @@ title: Home
 - [How Effective Is Carbon Pricing? Emissions and Cost Impacts of the UK Carbon Tax](https://github.com/jabrell/jabrell.github.io/tree/main/public/papers/abrell_kosch_rausch_uk_carbon_tax.pdf), with Mirjam Kosch and Sebastian Rausch, submitted. 
 - [The Economic and Climate Values of Flexibility in Green Energy Markets](https://github.com/jabrell/jabrell.github.io/tree/main/public/papers/abrell_rausch_streitberger_climate_value_flexibility_res.pdf), with Sebastian Rausch and Clemens Streitberger, submitted. 
 - [Active or passive? Companies' use of the EU ETS](https://www.econstor.eu/handle/10419/218738), with Regina Betz, Johanna Cludius, Sache Lehmann, Jonatan Pinkse, and Joachim Schleich, submitted. 
-- [Database for the European Union Transaction Log](https://github.com/jabrell/jabrell.github.io/tree/main/public/papers/Description_EUTL_database.pdf), 2021, Corresponding website [EUETS.INFO] (https://euets.info)
+- [Database for the European Union Transaction Log](https://github.com/jabrell/jabrell.github.io/tree/main/public/papers/Description_EUTL_database.pdf), 2021, Corresponding website [EUETS.INFO](https://euets.info)
 - Cross-country Spillovers of Renewable Energy Promotion - The Case of Germany, with Mirjam Kosch.
 - [Measuring supply security – A compound indicator](https://edoc.unibas.ch/71471/), with Leo Chavaz and Hannes Weigt, SCCER CREST Working Paper WP3-2019/3.
 - [Infrastructure and policy - Dealing 
