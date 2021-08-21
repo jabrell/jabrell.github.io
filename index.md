@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 ## Articles
+- [The Impact of Carbon prices on Optimal Renewable Energy Support](https://abrell.eu/public/papers/abrell_kosch_res_and_carbon_prices.pdf), with Mirjam Kosch, *Journal of the Association of Environmental and Resource Economists*, forthcoming.
+- [Active or passive? Companies' use of the EU ETS](https://www.econstor.eu/handle/10419/218738), with Regina Betz, Johanna Cludius, Sache Lehmann, and Joachim Schleich, *Environmental and Resource Economics*, forthcoming.
 - [The Economics of Renewable Energy Support](https://www.sciencedirect.com/science/article/abs/pii/S0047272719300805), with Sebastian Rausch and Clemens Streitberger, *Journal of Public Economics*, 2019, 176, 94-117.
 - [Buffering Volatility: Storage Investments and Technology Specific Renewable Energy Support](https://www.sciencedirect.com/science/article/pii/S0140988319302440), with Sebastian Rausch and Clemens Streitberger, *Energy Economics*, 2019, 84, 1-15. 
 - [Carbon Abatement with Renewables: Evaluating Wind and Solar Subsidies in Germany and Spain](https://www.sciencedirect.com/science/article/abs/pii/S0047272718302263), with Mirjam Kosch and Sebastian Rausch,  *Journal of Public Economics*, 2019, 169, 172-202.
@@ -22,12 +24,9 @@ title: Home
 - [Regulating CO2 emissions of transportation in Europe: A CGE-analysis using market-based instruments](Regulating CO2 emissions of transportation in Europe: A CGE-analysis using market-based instruments), Transportation Research Part D, 2010, 15, 235-239.
 
 ## Working Papers and Work in Progress
-- [The Impact of Carbon prices on Optimal Renewable Energy Support](https://abrell.eu/public/papers/abrell_kosch_res_and_carbon_prices.pdf), with Mirjam Kosch, Resubmitted to Journal of the Association of Environmental and Resource Economists.
-- [How Effective Is Carbon Pricing? Emissions and Cost Impacts of the UK Carbon Tax](https://abrell.eu/public/papers/abrell_kosch_rausch_uk_carbon_tax.pdf), with Mirjam Kosch and Sebastian Rausch, submitted. 
+- [How Effective Is Carbon Pricing? Emissions and Cost Impacts of the UK Carbon Tax](https://abrell.eu/public/papers/abrell_kosch_rausch_uk_carbon_tax.pdf), with Mirjam Kosch and Sebastian Rausch, resubmitted. 
 - [The Economic and Climate Values of Flexibility in Green Energy Markets](https://abrell.eu/public/papers/abrell_rausch_streitberger_climate_value_flexibility_res.pdf), with Sebastian Rausch and Clemens Streitberger, submitted. 
-- [Active or passive? Companies' use of the EU ETS](https://www.econstor.eu/handle/10419/218738), with Regina Betz, Johanna Cludius, Sache Lehmann, Jonatan Pinkse, and Joachim Schleich, submitted. 
-- [Database for the European Union Transaction Log](https://euets.info/static//download/Description_EUTL_database.pdf), 2021, Corresponding website [EUETS.INFO](https://euets.info)
-- Cross-country Spillovers of Renewable Energy Promotion - The Case of Germany, with Mirjam Kosch.
+- Cross-country Spillovers of Renewable Energy Promotion - The Case of Germany, with Mirjam Kosch, submitted.
 - [Measuring supply security – A compound indicator](https://edoc.unibas.ch/71471/), with Leo Chavaz and Hannes Weigt, SCCER CREST Working Paper WP3-2019/3.
 - [Infrastructure and policy - Dealing 
 - [The Swiss Wholesale Electricity Market](https://www.ethz.ch/content/dam/ethz/special-interest/mavt/energy-science-center-dam/research/research-projects/AFEM/Workpackage_3_Abrell_2016_07.pdf), SCCER CREST Working Paper WP3-2016/7.
@@ -36,6 +35,7 @@ title: Home
 - [The Interaction of Emissions Trading and Renewable Energy Support](https://mpra.ub.uni-muenchen.de/65658/1/wp_egw_05_Abrell_Weigt_CGE_ETS_RES.pdf), with Hannes Weigt, Dresden University of Technology Working Paper WP-EGW-05.
 
 ## Papers in non-refereed journals and policy reports
+- [Database for the European Union Transaction Log](https://euets.info/static//download/Description_EUTL_database.pdf), 2021, Corresponding website [EUETS.INFO](https://euets.info)
 - [The European Emissions Trading System and the German and Polish Electricity Market](https://www.umweltbundesamt.de/sites/default/files/medien/5750/publikationen/2020_12_03_cc_48-2020_case_studies_eu_electricity_market.pdf), with Regina Betz and Mirjam Kosch, Umweltbundesamt Climate Change 48/2020.
 - [The Californian Emissions Trading System and Electricity Market](https://www.umweltbundesamt.de/sites/default/files/medien/5750/publikationen/2020_12_03_cc_49-2020_case_studies_californian_electricity_market.pdf), with Regina Betz, Mirjam Kosch, Christopher Kardish, and Michael Mehling, Umweltbundesamt Climate Change 49/2020.
 - [The Drivers of Carbon Abatement with Renewables](https://www.eaere.org/wp-content/uploads/2019/07/EAERE-Magazine-n.6-Summer-2019.pdf), with Mirjam Kosch, Quarterly Magazine of the European Association of Environmental and Resource Economists, Summer 2019.
