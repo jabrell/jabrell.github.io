@@ -4,6 +4,7 @@ title: Home
 ---
 ## Articles
 - [The Impact of Carbon Prices on Optimal Renewable Energy Support](https://abrell.eu/public/papers/abrell_kosch_res_and_carbon_prices.pdf), with Mirjam Kosch, *Journal of the Association of Environmental and Resource Economists*, forthcoming.
+- [The Economic and Climate Values of Flexibility in Green Energy Markets](https://abrell.eu/public/papers/abrell_rausch_streitberger_climate_value_flexibility_res.pdf), with Sebastian Rausch and Clemens Streitberger, *Environmental and Resource Economics*, forthcoming. 
 - [Active or passive? Companies' use of the EU ETS](https://www.econstor.eu/handle/10419/218738), with Regina Betz, Johanna Cludius, Sache Lehmann, and Joachim Schleich, *Environmental and Resource Economics*, forthcoming.
 - [The Economics of Renewable Energy Support](https://www.sciencedirect.com/science/article/abs/pii/S0047272719300805), with Sebastian Rausch and Clemens Streitberger, *Journal of Public Economics*, 2019, 176, 94-117.
 - [Buffering Volatility: Storage Investments and Technology Specific Renewable Energy Support](https://www.sciencedirect.com/science/article/pii/S0140988319302440), with Sebastian Rausch and Clemens Streitberger, *Energy Economics*, 2019, 84, 1-15. 
@@ -25,7 +26,6 @@ title: Home
 
 ## Working Papers and Work in Progress
 - [How Effective Is Carbon Pricing? Emissions and Cost Impacts of the UK Carbon Tax](https://abrell.eu/public/papers/abrell_kosch_rausch_uk_carbon_tax.pdf), with Mirjam Kosch and Sebastian Rausch, resubmitted. 
-- [The Economic and Climate Values of Flexibility in Green Energy Markets](https://abrell.eu/public/papers/abrell_rausch_streitberger_climate_value_flexibility_res.pdf), with Sebastian Rausch and Clemens Streitberger, submitted. 
 - Cross-country Spillovers of Renewable Energy Promotion - The Case of Germany, with Mirjam Kosch, submitted.
 - [Measuring supply security – A compound indicator](https://edoc.unibas.ch/71471/), with Leo Chavaz and Hannes Weigt, SCCER CREST Working Paper WP3-2019/3.
 - [Infrastructure and policy - Dealing 
