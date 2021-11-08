@@ -22,7 +22,7 @@ title: Home
 - [Integrating Intermittent Renewable Wind Generation - A Stochastic Multi-Market Electricity Model for the European Electricity Market](https://link.springer.com/article/10.1007/s11067-014-9272-4), with Friedrich Kunz, 
 *Networks and Spatial Economics*, 2015, 15, 117-147.
 - [Combining Energy Networks](https://link.springer.com/article/10.1007/s11067-011-9160-0), with Hannes Weigt, *Networks and Spatial Economics*, 2012, 12, 377-401.
-- [Regulating CO2 emissions of transportation in Europe: A CGE-analysis using market-based instruments](Regulating CO2 emissions of transportation in Europe: A CGE-analysis using market-based instruments), Transportation Research Part D, 2010, 15, 235-239.
+- [Regulating CO2 emissions of transportation in Europe: A CGE-analysis using market-based instruments](https://www.sciencedirect.com/science/article/abs/pii/S1361920910000118), Transportation Research Part D, 2010, 15, 235-239.
 
 ## Working Papers and Work in Progress
 - [How Effective Is Carbon Pricing? Emissions and Cost Impacts of the UK Carbon Tax](https://abrell.eu/public/papers/abrell_kosch_rausch_uk_carbon_tax.pdf), with Mirjam Kosch and Sebastian Rausch, resubmitted. 
