@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 ## Articles
-- [How Effective Is Carbon Pricing? A Machine Learning Approach to Policy Evaluation](https://www.zew.de/publikationen/how-effective-is-carbon-pricing-a-machine-learning-approach-to-policy-evaluation), with Mirjam Kosch and Sebastian Rausch, *Journal of Environmental Economics and Management*, forthcoming. 
+- [How Effective Is Carbon Pricing? A Machine Learning Approach to Policy Evaluation](https://ftp.zew.de/pub/zew-docs/dp/dp21039.pdf), with Mirjam Kosch and Sebastian Rausch, *Journal of Environmental Economics and Management*, forthcoming. 
 - [The Impact of Carbon Prices on Optimal Renewable Energy Support](https://abrell.eu/public/papers/abrell_kosch_res_and_carbon_prices.pdf), with Mirjam Kosch, *Journal of the Association of Environmental and Resource Economists*, forthcoming.
 - [The Economic and Climate Values of Flexibility in Green Energy Markets](https://link.springer.com/content/pdf/10.1007/s10640-021-00605-6.pdf), with Sebastian Rausch and Clemens Streitberger, *Environmental and Resource Economics*, forthcoming. 
 - [Active or passive? Companies' use of the EU ETS](https://www.econstor.eu/handle/10419/218738), with Regina Betz, Johanna Cludius, Sascha Lehmann, and Joachim Schleich, *Environmental and Resource Economics*, forthcoming.
