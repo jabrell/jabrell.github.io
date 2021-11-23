@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 ## Articles
+- [How Effective Is Carbon Pricing? A Machine Learning Approach to Policy Evaluation](https://www.zew.de/publikationen/how-effective-is-carbon-pricing-a-machine-learning-approach-to-policy-evaluation), with Mirjam Kosch and Sebastian Rausch, * Jounral of Environmental Economics and Management, forthcoming. 
 - [The Impact of Carbon Prices on Optimal Renewable Energy Support](https://abrell.eu/public/papers/abrell_kosch_res_and_carbon_prices.pdf), with Mirjam Kosch, *Journal of the Association of Environmental and Resource Economists*, forthcoming.
 - [The Economic and Climate Values of Flexibility in Green Energy Markets](https://link.springer.com/content/pdf/10.1007/s10640-021-00605-6.pdf), with Sebastian Rausch and Clemens Streitberger, *Environmental and Resource Economics*, forthcoming. 
 - [Active or passive? Companies' use of the EU ETS](https://www.econstor.eu/handle/10419/218738), with Regina Betz, Johanna Cludius, Sascha Lehmann, and Joachim Schleich, *Environmental and Resource Economics*, forthcoming.
@@ -25,8 +26,7 @@ title: Home
 - [Regulating CO2 emissions of transportation in Europe: A CGE-analysis using market-based instruments](https://www.sciencedirect.com/science/article/abs/pii/S1361920910000118), Transportation Research Part D, 2010, 15, 235-239.
 
 ## Working Papers and Work in Progress
-- [How Effective Is Carbon Pricing? Emissions and Cost Impacts of the UK Carbon Tax](https://abrell.eu/public/papers/abrell_kosch_rausch_uk_carbon_tax.pdf), with Mirjam Kosch and Sebastian Rausch, resubmitted. 
-- Cross-country Spillovers of Renewable Energy Promotion - The Case of Germany, with Mirjam Kosch, submitted.
+- [Cross-country Spillovers of Renewable Energy Promotion - The Case of Germany](https://www.zew.de/publikationen/cross-country-spillovers-of-renewable-energy-promotion-the-case-of-germany), with Mirjam Kosch, resubmitted.
 - [Measuring supply security – A compound indicator](https://edoc.unibas.ch/71471/), with Leo Chavaz and Hannes Weigt, SCCER CREST Working Paper WP3-2019/3.
 - [Infrastructure and policy - Dealing 
 - [The Swiss Wholesale Electricity Market](https://www.ethz.ch/content/dam/ethz/special-interest/mavt/energy-science-center-dam/research/research-projects/AFEM/Workpackage_3_Abrell_2016_07.pdf), SCCER CREST Working Paper WP3-2016/7.
