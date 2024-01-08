@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 ## Articles
+- [Optimal allocation of the EU carbon budget: A multi-model assessment](https://www.sciencedirect.com/science/article/pii/S2211467X23002213), with Mirjam Kosch, J. Siegle, U. Fahl, M. Pahle, R. Pietzcker,  S. Bilici, M. Blesl, F. Kattelmann, L. Kittel, R. Roddrigues, D. Marmullaku, *Energy Strategy Reviews*, 51, 101271.
 - [Cross-country spillovers of renewable energy promotion—The case of Germany](https://www.sciencedirect.com/science/article/abs/pii/S0928765522000100), with Mirjam Kosch, *Resource and Energy Economics*, 68, 101293.
 - [How Effective Is Carbon Pricing? A Machine Learning Approach to Policy Evaluation](https://www.sciencedirect.com/science/article/abs/pii/S0095069621001339), with Mirjam Kosch and Sebastian Rausch, *Journal of Environmental Economics and Management*, 112. 
 - [The Impact of Carbon Prices on Optimal Renewable Energy Support](https://www.journals.uchicago.edu/doi/10.1086/717417), with Mirjam Kosch, *Journal of the Association of Environmental and Resource Economists*, 9 (3).
