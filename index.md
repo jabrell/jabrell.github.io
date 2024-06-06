@@ -45,7 +45,6 @@ title: Home
 
 ## Working Papers and Work in Progress
 - [Measuring supply security – A compound indicator](https://edoc.unibas.ch/71471/), with Leo Chavaz and Hannes Weigt, SCCER CREST Working Paper WP3-2019/3.
-- [Infrastructure and policy - Dealing 
 - [The Swiss Wholesale Electricity Market](https://www.ethz.ch/content/dam/ethz/special-interest/mavt/energy-science-center-dam/research/research-projects/AFEM/Workpackage_3_Abrell_2016_07.pdf), SCCER CREST Working Paper WP3-2016/7.
 - [Assessing the Impact of the EU ETS Using Firm Level Data](https://www.bruegel.org/2011/07/assessing-the-impact-of-the-eu-ets-using-firm-level-data/), with Anta Ndoye Faye and Georg Zachmann, Bruegel Working Paper 2011/08.
 - [Start Me Up – Modeling of Power Plant Start-Up Conditions and their Impact on Prices](https://mpra.ub.uni-muenchen.de/65661/), with Friedrich Kunz and Hannes Weigt, Dresden University of Technology Working Paper WP-EGW-05.
